@@ -9,6 +9,6 @@
 
 - [Dub Stabs (v1.0.0)](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.0.0) : Synthesizers for Dub Techno Chords & Stabs for macOS. Standalone.
 
-- [Nuage (v0.9.9)](https://github.com/DeobfuscateMusic/Nuage/releases/tag/Nuage-0.9.9) : IDM & Ambient Synthesizer for macOS.
+- [Nuage (v0.9.9)](https://github.com/DeobfuscateMusic/Nuage/releases/tag/Nuage-0.9.9) : IDM & Ambient Synthesizer for macOS. Standalone.
 
 - [Dub Chords (v1.0.1)](https://github.com/DeobfuscateMusic/Dub-Chords/releases/tag/DubChords1.0.1) : Synthesizer for Dub Techno Chords & Stabs. Standalone, Audio Unit (AU) & VST3
