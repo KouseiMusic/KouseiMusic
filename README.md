@@ -9,7 +9,7 @@
 
 - [VINC3 (v1.0.0)](https://github.com/DeobfuscateMusic/VINC3/releases/tag/VINC3_1.0.0) : Spectral Analysis & DSP Metering for macOS. Standalone.
 
-- [Dub Stabs (v1.0.0)](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.0.0) : Dub Techno Synthesizer for macOS. Standalone.
+- [Dub Stabs (v1.0.1)](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.0.1) : Dub Techno Synthesizer for macOS. Standalone.
 
 - [Nuage (v0.9.9)](https://github.com/DeobfuscateMusic/Nuage/releases/tag/Nuage-0.9.9) : IDM & Ambient Synthesizer for macOS. Standalone.
 
