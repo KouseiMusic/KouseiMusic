@@ -6,6 +6,6 @@
 
 - [Dubform (v1.0.0)](https://github.com/KouseiMusic/Dubform/releases/tag/Dubform-1.0.0) : Dub Techno 12-bit Sampler & Tape Delay for macOS.
 
-- [Dub Stabs (v 1.0.2)](https://github.com/KouseiMusic/Dub-Stabs/releases/tag/Dub-Stabs-1.0.2) : Dub Techno Stabs & Chords Synthesizers for macOS.
+- [Dub Stabs (v1.0.2)](https://github.com/KouseiMusic/Dub-Stabs/releases/tag/Dub-Stabs-1.0.2) : Dub Techno Stabs & Chords Synthesizers for macOS.
 
 - [My K7 (v1.0.0)](https://github.com/KouseiMusic/My-K7/releases/tag/My-K7-1.0.0) : Vintage Cassette Tape Audio Effects for macOS.
