@@ -9,3 +9,5 @@
 - [Dub Stabs (v1.0.2)](https://github.com/KouseiMusic/Dub-Stabs/releases/tag/Dub-Stabs-1.0.2) : Dub Techno Stabs & Chords Synthesizers for macOS.
 
 - [My K7 (v1.0.0)](https://github.com/KouseiMusic/My-K7/releases/tag/My-K7-1.0.0) : Vintage Cassette Tape Audio Effects for macOS.
+
+- [Chanoko (v1.0.0)](https://github.com/KouseiMusic/Chanoko/releases/tag/Chanoko_1.0.0) : Rhythmic Filter & Delay Sequencer for macOS.
