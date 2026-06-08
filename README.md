@@ -13,4 +13,4 @@
 
 - [My K7 (v1.0.0)](https://github.com/KouseiMusic/My-K7/releases/tag/My-K7-1.0.0) : Vintage Cassette Tape Audio Effects for macOS.
 
-- [Chanoko (v1.0.0)](https://github.com/KouseiMusic/Chanoko/releases/tag/Chanoko_1.0.0) : Rhythmic Filter & Delay Sequencer for macOS.
+- [Chanoko (v1.1.0)](https://github.com/KouseiMusic/Chanoko/releases/tag/Chanoko_1.1.0) : Distortion, Rhythmic Filter & Delay Sequencer for macOS.
