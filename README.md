@@ -6,12 +6,12 @@
 ![DAW](https://img.shields.io/badge/DAW-All-000000?style=flat-square&logo=abletonlive&logoColor=white)
 ![Free](https://img.shields.io/badge/Status-Free-success?style=flat-square)
 
-- [VINC3 (v1.1.0)](https://github.com/KouseiMusic/VINC3/releases/tag/VINC3_1.1.0) : Audio Analysis & DSP Metering. Frequency Visualization & Audio Monitoring for macOS & Ableton Live 12.
+- [VINC3 (v1.1.0)](https://github.com/KouseiMusic/VINC3/releases/download/VINC3_1.1.0/VINC3.1.1.0.app.macOS.Universal.zip) : Audio Analysis & DSP Metering. Frequency Visualization & Audio Monitoring for macOS & Ableton Live 12.
 
-- [Dubform (v1.0.0)](https://github.com/KouseiMusic/Dubform/releases/tag/Dubform-1.0.0) : Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12.
+- [Dubform (v1.1.0)](https://github.com/KouseiMusic/Dubform/releases/download/Dubform_1.1.0/Dubform.1.1.0.macOS.Universal.zip) : Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12.
 
-- [Dub Stabs (v1.1.0)](https://github.com/KouseiMusic/Dub-Stabs/releases/tag/Dub_Stabs_1.1.0) : Dub Techno Stabs & Chords Synthesizers for macOS & Ableton Live 12.
+- [Dub Stabs (v1.1.0)](https://github.com/KouseiMusic/Dub-Stabs/releases/download/Dub_Stabs_1.1.0/Dub.Stabs.macOS.Universal.zip) : Dub Techno Stabs & Chords Synthesizers for macOS & Ableton Live 12.
 
-- [My K7 (v1.0.0)](https://github.com/KouseiMusic/My-K7/releases/tag/My-K7-1.0.0) : Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12.
+- [My K7 (v1.0.0)](https://github.com/KouseiMusic/My-K7/releases/download/My-K7-1.0.0/My.K7.1.0.0.app.macOS.Universal.zip) : Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12.
 
-- [Chanoko (v1.1.0)](https://github.com/KouseiMusic/Chanoko/releases/tag/Chanoko_1.1.0) : Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12.
+- [Chanoko (v1.1.0)](https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip) : Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12.
