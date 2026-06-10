@@ -1,7 +1,7 @@
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Arm64%20%7C%20U2B-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square)
 ![DAW](https://img.shields.io/badge/DAW-All-000000?style=flat-square&logo=abletonlive&logoColor=white)
 ![Free](https://img.shields.io/badge/Status-Free-success?style=flat-square)
