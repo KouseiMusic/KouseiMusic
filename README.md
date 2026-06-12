@@ -12,6 +12,6 @@
 
 - [Dub Stabs (v1.1.0)](https://github.com/KouseiMusic/Dub-Stabs/releases/download/Dub_Stabs_1.1.0/Dub.Stabs.macOS.Universal.zip) : Dub Techno Stabs & Chords Synthesizers for macOS & Ableton Live 12.
 
-- [My K7 (v1.0.0)](https://github.com/KouseiMusic/My-K7/releases/download/My-K7-1.0.0/My.K7.1.0.0.app.macOS.Universal.zip) : Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12.
+- [My K7 (v1.1.0)](https://github.com/KouseiMusic/My-K7/releases/download/My_K7_1.1.0/My.K7.app.macOS.Universal.zip) : Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12.
 
 - [Chanoko (v1.1.0)](https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip) : Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12.
