@@ -31,7 +31,7 @@ _<p align="center">**Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton 
 </p>
 
 <p align="center">
-  <a href="https://github.com/KouseiMusic/Dubform/releases/tag/Dubform_1.1.0">Download</a>
+  <a href="https://github.com/KouseiMusic/Dubform/releases/download/Dubform_1.1.0/Dubform.1.1.0.macOS.Universal.zip">Download</a>
 </p>
 
 ---
