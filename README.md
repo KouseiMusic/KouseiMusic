@@ -65,7 +65,7 @@ _<p align="center">**Vintage Cassette Tape Audio Effects for macOS & Ableton Liv
 ---
 **<p align="center">Chanoko (v1.1.0)</p>**
 
-_<p align="center">**Distortion, Rhythmic Filter & Delay Sequencer. for macOS & Ableton Live 12.**</p>_
+_<p align="center">**Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12.**</p>_
 
 <p align="center">
   <a href="https://github.com/KouseiMusic/Chanoko/blob/main/README.md">Readme</a>
