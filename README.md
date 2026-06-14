@@ -8,7 +8,7 @@
 
 ---
 
-**VINC3 (v1.1.0)** <br> _Audio Analyser & Mastering Suite for macOS & Ableton Live 12._
+**VINC3 (v1.1.0)** <br> _Audio Analyser / Visualizer & Mastering Suite for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/VINC3/blob/main/README.md)
 
