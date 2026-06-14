@@ -8,71 +8,42 @@
 
 ---
 
-**<p align="center">VINC3 (v1.1.0)</p>**
+**VINC3 (v1.1.0)** <br> _Audio Analyser & Mastering Suite for macOS & Ableton Live 12._
 
-_<p align="center">**Audio Analysis & DSP Metering. Frequency Visualization & Audio Monitoring for macOS & Ableton Live 12.**</p>_
+[Readme](https://github.com/KouseiMusic/VINC3/blob/main/README.md)
 
-<p align="center">
-  <a href="https://github.com/KouseiMusic/VINC3/blob/main/README.md">Readme</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KouseiMusic/VINC3/releases/download/VINC3_1.1.0/VINC3.1.1.0.app.macOS.Universal.zip">Download</a>
-</p>
+[Download](https://github.com/KouseiMusic/VINC3/releases/download/VINC3_1.1.0/VINC3.1.1.0.app.macOS.Universal.zip)
 
 ---
 
-**<p align="center">Dubform (v1.1.0)</p>**
+**Dubform (v1.1.0)** <br> _Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12._
 
-_<p align="center">**Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12.**</p>_
+[Readme](https://github.com/KouseiMusic/Dubform/blob/main/README.md)
 
-<p align="center">
-  <a href="https://github.com/KouseiMusic/Dubform/blob/main/README.md">Readme</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KouseiMusic/Dubform/releases/download/Dubform_1.1.0/Dubform.1.1.0.macOS.Universal.zip">Download</a>
-</p>
+[Dowload](https://github.com/KouseiMusic/Dubform/releases/download/Dubform_1.1.0/Dubform.1.1.0.macOS.Universal.zip)
 
 ---
 
-**<p align="center">Dub Stabs (v1.1.0)</p>**
+**Dub Stabs (v1.1.0)** <br> _Dub Techno Stabs & Chords Synthesizer for macOS & Ableton Live 12._
 
-_<p align="center">**Dub Techno Stabs & Chords Synthesizer for macOS & Ableton Live 12.**</p>_
+[Readme](https://github.com/KouseiMusic/Dub-Stabs/blob/main/README.md)
 
-<p align="center">
-  <a href="https://github.com/KouseiMusic/Dub-Stabs/blob/main/README.md">Readme</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KouseiMusic/Dub-Stabs/releases/download/Dub_Stabs_1.1.0/Dub.Stabs.macOS.Universal.zip">Download</a>
-</p>
+[Download](https://github.com/KouseiMusic/Dub-Stabs/releases/download/Dub_Stabs_1.1.0/Dub.Stabs.macOS.Universal.zip)
 
 ---
 
-**<p align="center">My K7 (v1.1.0)</p>**
+**My K7 (v1.1.0)** <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._
 
-_<p align="center">**Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12.**</p>_
+[Readme](https://github.com/KouseiMusic/My-K7/blob/main/README.md)
 
-<p align="center">
-  <a href="https://github.com/KouseiMusic/My-K7/blob/main/README.md">Readme</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KouseiMusic/My-K7/releases/download/My_K7_1.1.0/My.K7.app.macOS.Universal.zip">Download</a>
-</p>
+[Download](https://github.com/KouseiMusic/My-K7/releases/download/My_K7_1.1.0/My.K7.app.macOS.Universal.zip)
 
 ---
-**<p align="center">Chanoko (v1.1.0)</p>**
 
-_<p align="center">**Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12.**</p>_
+**Chanoko (v1.1.0)** <br> _Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12._
 
-<p align="center">
-  <a href="https://github.com/KouseiMusic/Chanoko/blob/main/README.md">Readme</a>
-</p>
+[Readme](https://github.com/KouseiMusic/Chanoko/blob/main/README.md)
 
-<p align="center">
-  <a href="https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip">Download</a>
-</p>
+[Download](https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip)
 
 ---
