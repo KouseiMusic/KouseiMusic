@@ -8,7 +8,7 @@
 
 ---
 
-**VINC3 (v1.1.0)** <br> _Audio Analyser / Visualizer & Mastering Suite for macOS & Ableton Live 12._
+**𝐕𝐈𝐍𝐂𝟑 (𝐯𝟏.𝟏.𝟎)** <br> _Audio Analyser / Visualizer & Mastering Suite for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/VINC3/blob/main/README.md)
 
@@ -16,7 +16,7 @@
 
 ---
 
-**Dubform (v1.1.0)** <br> _Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12._
+**𝐃𝐮𝐛𝐟𝐨𝐫𝐦 (𝐯𝟏.𝟏.𝟎)** <br> _Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/Dubform/blob/main/README.md)
 
@@ -24,7 +24,7 @@
 
 ---
 
-**Dub Stabs (v1.1.0)** <br> _Dub Techno Stabs & Chords Synthesizer for macOS & Ableton Live 12._
+**𝐃𝐮𝐛 𝐒𝐭𝐚𝐛𝐬 (𝐯𝟏.𝟏.𝟎)** <br> _Dub Techno Stabs & Chords Synthesizer for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/Dub-Stabs/blob/main/README.md)
 
@@ -32,7 +32,7 @@
 
 ---
 
-**My K7 (v1.1.0)** <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._
+**𝐌𝐲 𝐊𝟕 (𝐯𝟏.𝟏.𝟎)** <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/My-K7/blob/main/README.md)
 
@@ -40,7 +40,7 @@
 
 ---
 
-**Chanoko (v1.1.0)** <br> _Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12._
+**𝐂𝐡𝐚𝐧𝐨𝐤𝐨 (𝐯𝟏.𝟏.𝟎)** <br> _Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/Chanoko/blob/main/README.md)
 
