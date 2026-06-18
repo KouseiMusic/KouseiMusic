@@ -1,9 +1,6 @@
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555)
-![JUCE](https://img.shields.io/badge/-JUCE-21313C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555)
-![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white&labelColor=555555)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=555555) <br> ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
+![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
 ![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white) <br> ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square&logo=steinberg&logoColor=white)
 ![DAW](https://img.shields.io/badge/DAW-All-000000?style=flat-square&logo=bandlab&logoColor=white&labelColor=555555) <br> ![Status](https://img.shields.io/badge/Status-Free-00FF00?style=flat-square&logo=githubactions&logoColor=black&labelColor=555555)
 
@@ -48,3 +45,8 @@
 [Download](https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip)
 
 ---
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555)
+![JUCE](https://img.shields.io/badge/-JUCE-21313C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555)
+![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white&labelColor=555555)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=555555)
