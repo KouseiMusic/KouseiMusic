@@ -1,8 +1,10 @@
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white) <br> ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square&logo=steinberg&logoColor=white)
-![DAW](https://img.shields.io/badge/DAW-All-000000?style=flat-square&logo=bandlab&logoColor=white&labelColor=555555) <br> ![Status](https://img.shields.io/badge/Status-Free-00FF00?style=flat-square&logo=githubactions&logoColor=black&labelColor=555555)
+![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square&logo=steinberg&logoColor=white)
+![DAW](https://img.shields.io/badge/DAW-All-000000?style=flat-square&logo=bandlab&logoColor=white&labelColor=555555)
+![Status](https://img.shields.io/badge/Status-Free-00FF00?style=flat-square&logo=githubactions&logoColor=black&labelColor=555555)
 
 ---
 
