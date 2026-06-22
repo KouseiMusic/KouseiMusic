@@ -8,6 +8,14 @@
 
 ---
 
+**𝐑𝐒𝐆 (𝐯𝟏.𝟎.𝟎)** <br> _Random Sequence Generation / Cellular Automaton Sequencer for macOS & Ableton Live 12._
+
+[Readme](https://github.com/KouseiMusic/RSG/blob/main/README.md)
+
+[Download](https://github.com/KouseiMusic/RSG/releases/download/RSG_1.0.0/RSG_1.0.0_app_macOS_Universal.zip)
+
+---
+
 **𝐕𝐈𝐍𝐂𝟑 (𝐯𝟏.𝟏.𝟎)** <br> _Audio Analyser / Visualizer & Mastering Suite for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/VINC3/blob/main/README.md)
