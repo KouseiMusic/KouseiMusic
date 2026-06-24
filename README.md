@@ -40,6 +40,14 @@
 
 ---
 
+**𝐃𝐮𝐛 𝐂𝐡𝐨𝐫𝐝𝐬 (𝐯𝟏.𝟏.𝟎)** <br> _Dub Techno Chords Synthesizer for macOS & Ableton Live 12._
+
+[Readme](https://github.com/KouseiMusic/Dub-Chords/blob/main/README.md)
+
+[Download](https://github.com/KouseiMusic/Dub-Chords/releases/download/Dub_Chords_1.1.0/Dub_Chords_1.1.0_app_macOS_Universal.zip)
+
+---
+
 **𝐌𝐲 𝐊𝟕 (𝐯𝟏.𝟏.𝟎)** <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/My-K7/blob/main/README.md)
