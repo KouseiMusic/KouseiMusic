@@ -8,7 +8,7 @@
 
 ---
 
-**𝐑𝐒𝐆 (𝐯𝟏.𝟎.𝟎)** <br> _Random Sequence Generation / Cellular Automaton Sequencer for macOS & Ableton Live 12._
+**𝐑𝐒𝐆 (𝐯𝟏.𝟎.𝟎) <br> 𝟐𝟐.𝟎𝟔.𝟐𝟎𝟐𝟔** <br> _Random Sequence Generation / Cellular Automaton Sequencer for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/RSG/blob/main/README.md)
 
@@ -40,7 +40,7 @@
 
 ---
 
-**𝐃𝐮𝐛 𝐂𝐡𝐨𝐫𝐝𝐬 (𝐯𝟏.𝟏.𝟎)** <br> _Dub Techno Chords Synthesizer for macOS & Ableton Live 12._
+**𝐃𝐮𝐛 𝐂𝐡𝐨𝐫𝐝𝐬 (𝐯𝟏.𝟏.𝟎) <br> 𝟐𝟒.𝟎𝟔.𝟐𝟎𝟐𝟔** <br> _Dub Techno Chords Synthesizer for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/Dub-Chords/blob/main/README.md)
 
