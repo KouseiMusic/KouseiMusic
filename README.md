@@ -24,7 +24,7 @@
 
 ---
 
-**𝐃𝐮𝐛𝐟𝐨𝐫𝐦 (𝐯𝟏.𝟏.𝟎)** <br> _Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12._
+**𝐃𝐮𝐛𝐟𝐨𝐫𝐦 (𝐯𝟏.𝟏.𝟎) <br> 𝟏𝟏.𝟎𝟔.𝟐𝟎𝟐𝟔** <br> _Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/Dubform/blob/main/README.md)
 
@@ -48,7 +48,7 @@
 
 ---
 
-**𝐌𝐲 𝐊𝟕 (𝐯𝟏.𝟏.𝟎)** <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._
+**𝐌𝐲 𝐊𝟕 (𝐯𝟏.𝟏.𝟎) <br> 𝟏𝟐.𝟎𝟔.𝟐𝟎𝟐𝟔** <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._
 
 [Readme](https://github.com/KouseiMusic/My-K7/blob/main/README.md)
 
