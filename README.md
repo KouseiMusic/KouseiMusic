@@ -1,3 +1,5 @@
+_Hi! <br> My name is Kousei. <br> Welcome to my GitHub page! <br> You can find here my free softwares and plugins for macOS._
+
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
