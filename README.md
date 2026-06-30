@@ -13,15 +13,15 @@ _Hi! <br> My name is Kousei. <br> Welcome to my GitHub page. <br> You can find h
 
 - **[𝐑𝐒𝐆 (𝐯𝟏.𝟎.𝟎)](https://github.com/KouseiMusic/RSG)** <br> _22.06.2026_ <br> _Random Sequence Generation / Cellular Automaton Sequencer for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/RSG/releases/download/RSG_1.0.0/RSG_1.0.0_app_macOS_Universal.zip)
 
-- **[𝐕𝐈𝐍𝐂𝟑 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/VINC3)** <br> _Audio Analyser / Visualizer & Mastering Suite for macOS & Ableton Live 12._
+- **[𝐕𝐈𝐍𝐂𝟑 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/VINC3)** <br> _05.06.2026_ <br> _Audio Analyser / Visualizer & Mastering Suite for macOS & Ableton Live 12._
 [Download](https://github.com/KouseiMusic/VINC3/releases/download/VINC3_1.1.0/VINC3.1.1.0.app.macOS.Universal.zip)
 
 - **[𝐃𝐮𝐛𝐟𝐨𝐫𝐦 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/Dubform)** <br> _11.06.2026_ <br> _Dub Techno 12-bit Sampler & Tape Delay for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/Dubform/releases/download/Dubform_1.1.0/Dubform.1.1.0.macOS.Universal.zip)
 
-- **[𝐃𝐮𝐛 𝐒𝐭𝐚𝐛𝐬 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/Dub-Stabs)** <br> _Dub Techno Stabs & Chords Synthesizer for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/Dub-Stabs/releases/download/Dub_Stabs_1.1.0/Dub.Stabs.macOS.Universal.zip)
+- **[𝐃𝐮𝐛 𝐒𝐭𝐚𝐛𝐬 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/Dub-Stabs)** <br> _10.06.2026_ <br> _Dub Techno Stabs & Chords Synthesizer for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/Dub-Stabs/releases/download/Dub_Stabs_1.1.0/Dub.Stabs.macOS.Universal.zip)
 
 - **[𝐃𝐮𝐛 𝐂𝐡𝐨𝐫𝐝𝐬 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/Dub-Chords)** <br> _24.06.2026_ <br> _Dub Techno Chords Synthesizer for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/Dub-Chords/releases/download/Dub_Chords_1.1.0/Dub_Chords_1.1.0_app_macOS_Universal.zip)
 
 - **[𝐌𝐲 𝐊𝟕 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/My-K7)** <br> _12.06.2026_ <br> _Vintage Cassette Tape Audio Effects for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/My-K7/releases/download/My_K7_1.1.0/My.K7.app.macOS.Universal.zip)
 
-- **[𝐂𝐡𝐚𝐧𝐨𝐤𝐨 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/Chanoko)** <br> _Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip)
+- **[𝐂𝐡𝐚𝐧𝐨𝐤𝐨 (𝐯𝟏.𝟏.𝟎)](https://github.com/KouseiMusic/Chanoko)** <br> _08.06.2026_ <br> _Distortion, Rhythmic Filter & Delay Sequencer for macOS & Ableton Live 12._ [Download](https://github.com/KouseiMusic/Chanoko/releases/download/Chanoko_1.1.0/Chanoko.1.1.0.macOS.Universal.zip)
