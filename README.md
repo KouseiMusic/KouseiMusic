@@ -1,4 +1,4 @@
-_Hi! <br> My name is Kousei. <br> Welcome to my GitHub page! <br> You can find here my free softwares and plugins for macOS._
+_Hi! <br> My name is Kousei. <br> Welcome to my GitHub page. <br> You can find here my free softwares and plugins for macOS._
 
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
