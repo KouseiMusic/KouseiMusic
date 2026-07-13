@@ -1,12 +1,12 @@
-_Hi! <br> My name is Kousei. <br> Welcome to my GitHub page. <br> You can find here my free softwares and plugins for macOS._
+_Hi! <br> My name is Kousei. <br> Welcome to my GitHub page. <br> You can find here my free softwares and plugins for macOS. <br>  They are also working on all the DAW's on the market. <br> I hope you enjoy them._
 
 ## 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐬
 
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Intel%20%7C%20Silicon%20%7C%20Universal-black?labelColor=606060&style=flat-square&logo=apple&logoColor=white) <br> 
 ![Format](https://img.shields.io/badge/Format-Standalone-00CED1?style=flat-square&logo=steinberg&logoColor=white)
 ![DAW](https://img.shields.io/badge/DAW-All-000000?style=flat-square&logo=bandlab&logoColor=white&labelColor=555555)
-![alt text](https://img.shields.io/badge/Status-Free-228B22?style=flat-square&logo=githubactions&logoColor=white&labelColor=555555)
+![Status](https://img.shields.io/badge/Status-Free-brightgreen?style=flat-square&logo=githubactions&logoColor=white&labelColor=555555)
 <br> ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555)
 ![JUCE](https://img.shields.io/badge/-JUCE-21313C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=555555)
 ![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white&labelColor=555555)
